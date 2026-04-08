@@ -8,7 +8,7 @@
 /* Base page styles */
 body {
   font-family: Arial, sans-serif;
-  background-color: #f1f1f1;
+  background-color: #aeb0b5;
   padding: 20px;
 }
 
@@ -66,8 +66,8 @@ button {
 
 /* Button specific */
 button {
-  background-color: #d3d3d3;
-  color: black;
+  background-color: #0b3d91;
+  color: white;
   cursor: pointer;
 }
 button:hover {
